@@ -21,6 +21,7 @@ body {
   display: flex;
   flex-direction: column;
   align-items: center;
+  margin-top: 15%;
 }
 
 h1 {
@@ -48,6 +49,7 @@ h1 {
 .number-input {
   height: 25px;
 }
+
 
 #result {
   margin: 10px 0;
